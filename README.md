@@ -18,11 +18,9 @@ Asignación de recursos: se configura la cantidad de memoria RAM, número de CPU
 
 <img width="564" height="550" alt="image" src="https://github.com/user-attachments/assets/928c48dd-f287-40b0-a362-843f69965e74" />
 
-Configuración de red: se deja la red en modo NAT para permitir conexión a Internet dentro de la máquina.
+Instalación del sistema: al iniciar la VM, se sigue el asistente de instalación de Rocky Linux (idioma, zona horaria, usuario, contraseña).
 
 <img width="497" height="334" alt="image" src="https://github.com/user-attachments/assets/a5076a14-67f8-484a-91a0-41005c3fb857" />
-
-Instalación del sistema: al iniciar la VM, se sigue el asistente de instalación de Rocky Linux (idioma, zona horaria, usuario, contraseña).
 
 <img width="911" height="538" alt="image" src="https://github.com/user-attachments/assets/409c78d1-f122-4217-8618-ca64cd09ceeb" />
 
