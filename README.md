@@ -8,6 +8,7 @@
 
 **maquina virtual rocky linux**
 
+
 <img width="565" height="563" alt="image" src="https://github.com/user-attachments/assets/44bdc194-a54f-43a3-9991-197603eeeb09" />
 
 Selección del medio de instalación: se selecciona la opción Usar imagen ISO local y se carga la ISO descargada.
@@ -41,8 +42,10 @@ Creación de usuario: se establece el nombre completo del usuario, el nombre de 
 
 <img width="572" height="362" alt="image" src="https://github.com/user-attachments/assets/d4ce110c-a3d4-46ae-a2d2-d4e03df09737" />
 
+Selección de entorno de escritorio y herramientas: se elige el entorno gráfico (por defecto XFCE) y los paquetes o herramientas de Kali a instalar.
+
 <img width="566" height="402" alt="image" src="https://github.com/user-attachments/assets/3e5c3eed-6321-4377-8ebb-502748d3abf1" />
 
-
+Finalización: al completar el proceso, se reinicia la máquina virtual y se inicia Kali Linux ya operativo y listo para usar.
 
 
