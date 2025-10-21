@@ -27,3 +27,13 @@ Instalación del sistema: al iniciar la VM, se sigue el asistente de instalació
 Finalización: al terminar la instalación, se reinicia la máquina virtual y se inicia el sistema Rocky Linux ya operativo.
 
 <img width="707" height="334" alt="image" src="https://github.com/user-attachments/assets/12aec641-2e36-4acd-8421-1323114b4b49" />
+
+
+<img width="1624" height="664" alt="image" src="https://github.com/user-attachments/assets/593427c4-5d39-48bf-851c-fc40a448ef82" />
+
+<img width="483" height="327" alt="image" src="https://github.com/user-attachments/assets/d0476640-0d1b-483d-94fa-53a3f03a9c06" />
+
+<img width="572" height="362" alt="image" src="https://github.com/user-attachments/assets/d4ce110c-a3d4-46ae-a2d2-d4e03df09737" />
+
+
+
