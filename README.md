@@ -20,8 +20,6 @@ Asignación de recursos: se configura la cantidad de memoria RAM, número de CPU
 
 Instalación del sistema: al iniciar la VM, se sigue el asistente de instalación de Rocky Linux (idioma, zona horaria, usuario, contraseña).
 
-**maquina virtual kali linux**
-
 <img width="497" height="334" alt="image" src="https://github.com/user-attachments/assets/a5076a14-67f8-484a-91a0-41005c3fb857" />
 
 
@@ -31,8 +29,9 @@ Instalación del sistema: al iniciar la VM, se sigue el asistente de instalació
 Finalización: al terminar la instalación, se reinicia la máquina virtual y se inicia el sistema Rocky Linux ya operativo.
 
 <img width="707" height="334" alt="image" src="https://github.com/user-attachments/assets/12aec641-2e36-4acd-8421-1323114b4b49" />
+**maquina virtual kali linux**
 
-Selección de idioma y zona: se elige el idioma del sistema, el país y la distribución del teclado.
+Inicio del instalador: al encender la máquina virtual, se selecciona la opción “Graphical Install” en el menú principal de Kali Linux.
 
 <img width="1624" height="664" alt="image" src="https://github.com/user-attachments/assets/593427c4-5d39-48bf-851c-fc40a448ef82" />
 
