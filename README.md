@@ -24,7 +24,7 @@ Instalación del sistema: al iniciar la VM, se sigue el asistente de instalació
 
 <img width="497" height="334" alt="image" src="https://github.com/user-attachments/assets/a5076a14-67f8-484a-91a0-41005c3fb857" />
 
-Inicio del instalador: al encender la máquina virtual, se selecciona la opción “Graphical Install” en el menú principal de Kali Linux.
+
 
 <img width="911" height="538" alt="image" src="https://github.com/user-attachments/assets/409c78d1-f122-4217-8618-ca64cd09ceeb" />
 
