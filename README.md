@@ -20,7 +20,11 @@ Asignación de recursos: se configura la cantidad de memoria RAM, número de CPU
 
 Instalación del sistema: al iniciar la VM, se sigue el asistente de instalación de Rocky Linux (idioma, zona horaria, usuario, contraseña).
 
+**maquina virtual kali linux**
+
 <img width="497" height="334" alt="image" src="https://github.com/user-attachments/assets/a5076a14-67f8-484a-91a0-41005c3fb857" />
+
+Inicio del instalador: al encender la máquina virtual, se selecciona la opción “Graphical Install” en el menú principal de Kali Linux.
 
 <img width="911" height="538" alt="image" src="https://github.com/user-attachments/assets/409c78d1-f122-4217-8618-ca64cd09ceeb" />
 
@@ -28,12 +32,18 @@ Finalización: al terminar la instalación, se reinicia la máquina virtual y se
 
 <img width="707" height="334" alt="image" src="https://github.com/user-attachments/assets/12aec641-2e36-4acd-8421-1323114b4b49" />
 
+Selección de idioma y zona: se elige el idioma del sistema, el país y la distribución del teclado.
 
 <img width="1624" height="664" alt="image" src="https://github.com/user-attachments/assets/593427c4-5d39-48bf-851c-fc40a448ef82" />
+
+Creación de usuario: se establece el nombre completo del usuario, el nombre de inicio de sesión y una contraseña segura.
 
 <img width="483" height="327" alt="image" src="https://github.com/user-attachments/assets/d0476640-0d1b-483d-94fa-53a3f03a9c06" />
 
 <img width="572" height="362" alt="image" src="https://github.com/user-attachments/assets/d4ce110c-a3d4-46ae-a2d2-d4e03df09737" />
+
+<img width="566" height="402" alt="image" src="https://github.com/user-attachments/assets/3e5c3eed-6321-4377-8ebb-502748d3abf1" />
+
 
 
 
