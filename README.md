@@ -53,6 +53,8 @@ Finalización: al completar el proceso, se reinicia la máquina virtual y se ini
 
 <img width="434" height="341" alt="image" src="https://github.com/user-attachments/assets/fd591f44-a5f9-433d-886e-d442cbedb716" />
 
+Inicio del instalador: al arrancar la máquina virtual con la imagen ISO de Windows, aparece el asistente de instalación donde se selecciona el idioma, formato de hora y teclado.
+
 <img width="694" height="547" alt="image" src="https://github.com/user-attachments/assets/acb9d20f-8912-4edc-b38c-6d72fc6e2d78" />
 
 <img width="692" height="453" alt="image" src="https://github.com/user-attachments/assets/28f87db1-d3f9-45c5-9981-b2fe1d55b078" />
@@ -60,5 +62,7 @@ Finalización: al completar el proceso, se reinicia la máquina virtual y se ini
 
 
 <img width="783" height="409" alt="image" src="https://github.com/user-attachments/assets/ad1fd3d7-fc15-471f-ac5f-aa186affbf0e" />
+
+Configuración inicial: al finalizar, la máquina se reinicia automáticamente y se configuran las opciones iniciales como el usuario, contraseña y región.
 
 
