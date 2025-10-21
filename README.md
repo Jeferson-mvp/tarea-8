@@ -7,9 +7,10 @@
 2. se hace la instalacion y se crean las maquinas virtuales, en este caso rocky linux, kali linux y windows
 
 **maquina virtual rocky linux**
+
 <img width="565" height="563" alt="image" src="https://github.com/user-attachments/assets/44bdc194-a54f-43a3-9991-197603eeeb09" />
 
- <img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/490ccd14-3652-4588-95af-39348c5749d7" />
+<img width="566" height="552" alt="image" src="https://github.com/user-attachments/assets/490ccd14-3652-4588-95af-39348c5749d7" />
 
 <img width="564" height="550" alt="image" src="https://github.com/user-attachments/assets/928c48dd-f287-40b0-a362-843f69965e74" />
 
